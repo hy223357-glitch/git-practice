@@ -1,2 +1,1 @@
-# Git Practice
-gioi thieu: Tôi là <Nguyen Chi Hy>, MSSV <223357>.
+Đây là README từ nhánh conflict-demo.
