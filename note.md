@@ -1,1 +1,1 @@
-Ghi chu
+Ghi chú
